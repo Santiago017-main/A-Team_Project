@@ -1,0 +1,15 @@
+Equipo A-Team
+
+Integrantes:
+
+Juan Pablo Martínez León: Scrum Master
+Me presento, mi nombre es Juan Pablo, vivo en villavicencio Meta y tengo 19 años.
+En estos momentos mi enfoque es estudiar y aprovechar todo lo posible el programa MisionTIC, para luego incoporar lo aprendido en mis habilidades profesionales.  
+
+Santiago Bejarano Ariza: Desarrollador
+
+Juan Gabriel López Romero: Analista
+
+Jesús Hernando Duarte Duarte: Product owner
+
+Sergio Andrés Duarte Salcedo: Administrador de BD
