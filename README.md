@@ -1,8 +1,7 @@
 # A-Team_Project
 Proyecto para el ciclo 4 de MisionTic 2022
 
-El proyecto un sitio web de ventas para una fruteria en la cual el usuario puede llevar el inventario de su negocio, el registro de las ventas y 
-puede agregar productos del inventario.
+Este proyecto es para el desarrollo de un sitio web para venta de frutas, ensaladas y demas productos asociados a una fruteria en la cual el usuario podra registrarse y segun el rol y permisos podra llevar el inventario de su negocio, el registro de clientes y las ventas, ademas de agregar productos al inventario.
 
 El proyecto es realizado por:
 Santiago Bejarano Ariza 
