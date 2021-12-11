@@ -1,0 +1,48 @@
+Para la creación de la base de datos se identifican 4 modulos, que seran las colecciones:
+-Gestión de Usuarios
+-Gestión de Proyectos 
+-Gestión de Inscripciones
+-Gestión de Avances 
+
+Colección Usuario. Se identifican los siguientes atributos para la colección Usuarios:
+{
+ "correo":"ejemplo@gmail.com", 
+ "id_usuario":"1234567",
+ "nombre_usuario":"Luis Angel Montes Cardona",
+ "contraseña":"abc123",
+ "estado_usuario":"pendiente"
+}
+
+Colección Proyectos. Se identifican los siguientes atributos para la colección Proyectos:
+{
+ "id_proyecto":"12", 
+ "nombre_proyecto":"proyecto_vida_saludable",
+ "objetivos_g":"Objetivos generales...",
+ "objetivos_e":"Objetivos específicos...",
+ "presupuesto":"$0,0",
+ "fecha_inicio":"13-02-2021",
+ "fecha_fin":"02-11-2021",
+ "id_lider":"12345",
+ "nombre_lider":"Juan Diego Ramirez Olivos",
+ "estado_proyecto":"inactivo",
+ "fase":"nula"
+}
+
+Colección Inscripciones. Se identifican los siguientes atributos para la colección Inscripciones:
+{
+ "id_inscripcion":"25", 
+ "id_proyecto":"12",
+ "id_usuario":"1234567",
+ "estado_inscripcion":"aceptada",
+ "fecha_ingreso":"24-02-2021",
+ "fecha_egreso":"02-11-2021"
+}
+
+Colección Avances. Se identifican los siguientes atributos para la colección Avances:
+{
+ "id_avance":"05", 
+ "id_proyecto":"12",
+ "fecha_avance":"27-06-2021",
+ "descripcion_avance":"aportes a los objetivos...",
+ "observacion_lider":"observaciones del lider..."
+}
